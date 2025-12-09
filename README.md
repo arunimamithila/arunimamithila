@@ -10,7 +10,7 @@
 <table align="center" border="0">
     <tr>
 <td colspan="2" valign="middle" align="center" width="300">
-      <img src="loading.gif" width="250px" />
+      <img src="top.gif"  />
  </td>
       
   <tr>
@@ -47,7 +47,7 @@
   </td>
 
   <td valign="middle" align="center" width="300">
-      <img src="loading.gif" width="250px" />
+      <img src="loading.gif"  />
     </td>
  </tr>
 

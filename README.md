@@ -1,46 +1,88 @@
-<table>
-  <tr>
-    <td>
+<h1 align="center">Hi there 👋</h1>
 
-<h1 align="left">Hi there 👋</h1>
-
-<p align="left">
+<h3 align="center">This is <strong>Mithila Arunima Majumder</strong></h3>
+<p align="center">
   <strong>Turning caffeine and curiosity into delightful UIs and reliable AI models.</strong><br>
   I design, I research, and I occasionally win my battles with bugs.
 </p>
 
-<h3 align="left">This is <strong>Mithila Arunima Majumder</strong></h3>
+<hr>
 
-<p align="left">
-  a slow but steady learner carving her path into the digital frontier.
+<table align="center" border="0">
+  <tr>
+    <td valign="top">
+
+<h3>🛠️ I’m currently working on</h3>
+<ul>
+  <li><b>Computer Vision & Machine Learning projects</b></li>
+  <li><b>UI/UX design and modern web interfaces</b></li>
+  <li><b>Research involving CNNs, SVM, and image-based classification</b></li>
+</ul>
+
+<h3>🌱 I’m currently learning</h3>
+<ul>
+  <li><b>Advanced deep learning techniques</b></li>
+  <li><b>Improved design systems & interaction design</b></li>
+  <li><b>How to stop overthinking model performance (still failing)</b></li>
+</ul>
+
+<h3>🤝 I’m looking to collaborate on</h3>
+<ul>
+  <li><b>ML/CV projects</b></li>
+  <li><b>UI/UX + Frontend development</b></li>
+  <li><b>Research-focused open-source projects</b></li>
+</ul>
+
+<h3>💬 Ask me about</h3>
+<ul>
+  <li><b>Designing clean, user-friendly interfaces</b></li>
+  <li><b>Machine learning workflows</b></li>
+  <li><b>Anything related to AI model training or debugging chaos</b></li>
+</ul>
+
+  </td>
+
+  <td valign="middle" align="center" width="300">
+      <img src="loading.gif" width="250px" />
+    </td>
+ </tr>
+
+  <tr>
+    <td colspan="2">
+
+<h3>📫 How to reach me</h3>
+<p>📧 <b>arunimamithila@gmail.com</b></p>
+
+<hr>
+
+<h2>🌐 Connect with me</h2>
+<p>
+  <a href="https://linkedin.com/in/mithila-arunima-4372a8232">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" />
+  </a>
+  <a href="https://www.facebook.com/mithila.arunima/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40px" />
+  </a>
 </p>
 
-### 🛠️ I’m currently working on  
-- **Computer Vision & Machine Learning projects**  
-- **UI/UX design and modern web interfaces**  
-- **Research involving CNNs, SVM, and image-based classification**
+<hr>
 
-### 🌱 I’m currently learning  
-- **Advanced deep learning techniques**  
-- **Improved design systems & interaction design**  
-- **How to stop overthinking model performance (still failing)**
+<h2>🧰 Languages & Tools</h2>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45px"/>
+</p>
 
-### 🤝 I’m looking to collaborate on  
-- **ML/CV projects**  
-- **UI/UX + Frontend development**  
-- **Research-focused open-source projects**
+<h2>⚡ Fun fact</h2>
+<p><b>My ML models learn faster than I do — but I’m catching up.</b></p>
 
-### 💬 Ask me about  
-- **Designing clean, user-friendly interfaces**  
-- **Machine learning workflows**  
-- **Anything related to AI model training or debugging chaos**
-
-### 📫 How to reach me  
-📧 **arunimamithila@gmail.com**
-
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="250px"/>
-    </td>
-  </tr>
+  </td>
+</tr>
 </table>

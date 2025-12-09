@@ -6,11 +6,15 @@
   I design, I research, and I occasionally win my battles with bugs.
 </p>
 
-<hr>
 
 <table align="center" border="0">
+    <tr>
+<td colspan="2" valign="middle" align="center" width="300">
+      <img src="loading.gif" width="250px" />
+ </td>
+      
   <tr>
-    <td valign="top">
+    <td valign="middle">
 
 <h3>🛠️ I’m currently working on</h3>
 <ul>
@@ -50,10 +54,11 @@
   <tr>
     <td colspan="2">
 
+
+
 <h3>📫 How to reach me</h3>
 <p>📧 <b>arunimamithila@gmail.com</b></p>
 
-<hr>
 
 <h2>🌐 Connect with me</h2>
 <p>
@@ -65,7 +70,6 @@
   </a>
 </p>
 
-<hr>
 
 <h2>🧰 Languages & Tools</h2>
 <p>
